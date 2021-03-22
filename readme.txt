@@ -2,7 +2,7 @@
 
 Para tener en cuenta:
 	
-	* El link de descarga es 
+	* El link de descarga es https://github.com/Soriano8807/prueba_Devsavant.git
 	* El proyecto fue creado en IntellijIDE con el JDK 1.8.
 	* Se clona normalmente y al cargarlo en un IDE se debe permitir que se actualicen las dependencias.
 	* La ejecución se realiza desde la clase RunnerFeatures.
